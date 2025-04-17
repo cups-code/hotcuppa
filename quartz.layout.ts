@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Powered by Quartz": "https://github.com/jackyzha0/quartz",
-      "Source (for hotcuppa)": "https://github.com/cups-code/hotcuppa",
+      quartz: "https://github.com/jackyzha0/quartz",
+      source: "https://github.com/cups-code/hotcuppa",
+      rss: "https://cups-code.github.io/hotcuppa/index.xml",
     },
   }),
 }

@@ -2,7 +2,7 @@
 title: this is hotcuppa.
 ---
 # welcome!
-**a digital garden dedicated to my blogs, posts, and generally just life**
+**a personal digital garden dedicated to my blogs, thoughts, and generally just life**
 
 Let’s get straight to the point. This is *hotcuppa*.
 

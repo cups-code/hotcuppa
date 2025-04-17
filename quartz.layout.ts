@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 5 })),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3 })),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +62,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 5 })),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3 })),
   ],
   right: [],
 }

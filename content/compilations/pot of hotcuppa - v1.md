@@ -4,7 +4,6 @@ description: a compilation of previous posts, most if not all from substack
 created: 2025-04-17
 published: 2025-04-17T14:52:00
 ---
-
 # volume 1
 
 so, i recently moved in to using a quartz instance (open-source, self-hosted) and it was pain to do it but now, i guess i can try it out :D

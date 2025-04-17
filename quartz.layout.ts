@@ -62,6 +62,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes(),
   ],
   right: [],
 }

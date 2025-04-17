@@ -1,5 +1,8 @@
 ---
-title: "hotcuppa: volume 1"
+title: pot of hotcuppa - v1
+description: a compilation of previous posts, most if not all from substack
+created: 2025-04-17
+published: 2025-04-17T14:52:00
 ---
 
 # volume 1
@@ -8,7 +11,7 @@ so, i recently moved in to using a quartz instance (open-source, self-hosted) an
 - below, you'll see a collection of all my past substack articles (which you can still comment on and read [here](https://hotcuppa.substack.com)!)
 - idk if i'll make new posts soon
 ## the teaful revelation
-### no hate on coffee by the way, tea is just really good
+**no hate on coffee by the way, tea is just really good**
 
 hello, i’m cups… and this is just a little rant.
 
@@ -25,11 +28,10 @@ Since I’ve been sick for the past few days, I have been given a few variants o
 Anyway, it’s a sharp turn. Moving from one side to another. It’s pretty interesting seeing how me from many years ago and me now has a lot of differences, both in wisdom and drink preferences.
 
 Signing off, 🍵
-
 cupstv
 
 ## my abhorrent commitment issues
-### one of the flaws to my social identity
+**one of the flaws to my social identity**
 
 If I said I was a fairly consistent and committed person, that would be a total lie. Say hi to a sliver of my life.
 

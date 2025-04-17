@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Powered by Quartz": "https://github.com/jackyzha0/quartz",
     },
   }),
 }
@@ -38,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes({ title: "Recent writing", limit: 5 }),
   ],
   right: [
     Component.Graph(),
@@ -61,7 +61,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    // Component.Explorer(),
+    Component.Explorer(),
     Component.RecentNotes({ title: "Recent writing", limit: 5 }),
   ],
   right: [],

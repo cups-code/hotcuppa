@@ -4,11 +4,13 @@ description: a small little autobiography, if you might say.
 created: 2025-04-17
 published:
 ---
-Now, if you were here for me. Well, let’s give some context, shall we?
-- My name is cups9, otherwise known as David.
-- I’m a minor, and I won’t be disclosing my age. I’m a young author basically.
-- I like reading books every now and then, especially if they pique my interest. I’ll most likely read the book if I’ve watched the movie and invested in it.
-- I do music as one of my elective courses for high school. Currently learning music theory and just performing in a band. It’s fun.
-- I write in my spare time, especially fictional pieces. Sometimes, it’s fantasy and some can be speculative. I also write my own experiences into sort of fantasy-esque fictional pieces.
-- I enjoy indie pop and rock, regular pop and rock, jazz, reggae, ballads, and bedroom pop. I’m an ordinary teenager.
-- And to add the cherry on top, I enjoy cold drinks like iced matcha lattes and hot drinks like hot chocolate and tea (mostly fruit teas).
+# wip.
+# hey, i'm David
+Hello! My name is David, I'm a 15 year old writer and musician who is currently a high school student. I've had a very odd life, but I guess now's the time to reflect and look back at how my life has been.
+
+Let's start with some background information!
+- I go by many aliases, some being "cups", "dabido", and "gingerbag" (but no one calls me Gingerbag).
+- I enjoy a variety of music, mostly indie and art pop, rock, ballads, and bedroom pop. I also listen to mainstream pop as well, but not often.
+- Writing is mostly a hobby of mine, and I write in my spare time. As of recently, my writing has mostly been philosophy and thought-provoking pieces. I used to write a lot of fiction back then though.
+- Music is also another hobby of mine that I focus on quite deeply. If you ask any of my real life friends and classmates, they'll say that I always bring my guitar to school. 90% of the time, I do. I don't know why, LOL.
+- Finally, I enjoy quite a variety of food and drinks such as iced matcha (yes, I am that one guy who drinks matcha all the time), ramen (mainly "tantanmen"), and fried chicken.

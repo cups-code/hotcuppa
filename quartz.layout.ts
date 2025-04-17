@@ -37,8 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3 })),
+    Component.Explorer({ title: "directory" }),
+    Component.DesktopOnly(Component.RecentNotes({ title: "recent writing", limit: 3 })),
   ],
   right: [
     Component.Graph(),
@@ -62,8 +62,8 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3 })),
+    Component.Explorer({ title: "directory" }),
+    Component.DesktopOnly(Component.RecentNotes({ title: "recent writing", limit: 3 })),
   ],
   right: [],
 }

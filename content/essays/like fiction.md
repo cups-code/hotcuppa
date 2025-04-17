@@ -8,6 +8,8 @@ If you think about it, life could just be a piece of fiction. Except, it has end
 
 Hey, I’m cups but you can call me David for today. Welcome to hotcuppa.
 
+---
+
 Life is complicated. Maybe it’s only me, but I know that we’re all looking for answers or a purpose. That might come from ideologies, theology, or even philosophy but it’s all the same, limited knowledge trying to understand limitless intellect.
 
 I’ve come to terms with this realisation, as I was always looking for answers as to my faith and my purpose. There’s more than that, and there’s always a story to be told.

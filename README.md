@@ -1,3 +1,8 @@
+# hotcuppa
+This is the official codebase for the `hotcuppa` GitHub page. This is run by Quartz and relevant info can be found below.
+
+https://cups-code.github.io/hotcuppa
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming

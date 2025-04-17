@@ -61,8 +61,8 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
-    Component.RecentNotes(),
+    // Component.Explorer(),
+    Component.RecentNotes({ title: "Recent writing", limit: 5 }),
   ],
   right: [],
 }

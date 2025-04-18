@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "hotcuppa",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: null,
     locale: "en-GB",
     baseUrl: "cups-code.github.io/hotcuppa",

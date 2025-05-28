@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       dotfiles: "https://github.com/cups-code/dotfiles",
-      source: "https://github.com/cups-code/hotcuppa",
       rss: "https://cups-code.github.io/hotcuppa/index.xml",
     },
   }),

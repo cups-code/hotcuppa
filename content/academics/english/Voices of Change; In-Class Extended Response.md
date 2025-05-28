@@ -4,7 +4,7 @@ description: A school essay about creating a persuasive speech.
 created: 2025-04-02
 published: 2025-05-28T21:12:00
 ---
-This is an academic paper and is under the intellectual property and ownership, and copyright of "cupstv". You are not allowed to redistribute this paper for any commercial reasons, and is purely for viewing for reference and inspiration.
+This file is under [[cupstv's academic license]].
 
 # Voices of Change
 - You will write a persuasive speech responding to the following statement: 

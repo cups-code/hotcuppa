@@ -150,17 +150,30 @@ cups
 > To the sixth red star, lying in a world of gray
 > 
 > "Although our times have passed,
+> 
 > as we move from place to place
+> 
 > Star-crossed friends who
+> 
 > live in different shades
+> 
 > Of the same light
+> 
 > Of the same fights
 > 
+> 
 > And even though the world
+> 
 > does not conspire for what we want
+> 
 > We'll still be friends
+> 
 > No matter what
+> 
 > For however long it may last
+> 
 > Thank you for all that we have
+> 
 > Even in the weirdest of nights
+> 
 > Even in its bittersweet end"

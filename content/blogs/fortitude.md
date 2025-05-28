@@ -2,7 +2,7 @@
 title: fortitude; forging a mind through pain and heartache
 description: realising that there's more than what's in front of me
 created: 2025-05-28
-published:
+published: 2025-05-28T20:43:00
 ---
 # fortitude
 *forging a mind through pain and heartache*
@@ -74,7 +74,7 @@ I, then, got the guts to get up and write a Valentine's Day message (with a rose
 
 It was a short one for me. I think the fifth star was actually nicer than I thought, even though they ghosted me **HARD**. I believe it was the first time I got Instagram (2025) and I already felt the pain of being unfollowed. Wow, it really hurt.
 
-Also, I wrote a love song for them. How fun, right? :]
+Also, [I wrote a love song for them](https://www.youtube.com/watch?v=ogFGJo6C_cY). How fun, right? :]
 
 I learned that **wearing your heart on a sleeve isn't always a good thing**.
 
@@ -87,4 +87,80 @@ I was interested, and decided to say 'hi' every now and then. It was fun, I felt
 
 Then, there was an event called Industry Day, it was basically when people gave us career advice and offered tours for their offices. I got bored, so I walked up to them and said hi. We had an actual conversation, it felt like we were actually getting to know each other. It was much more deep than the last few ones, maybe it was just because of them being them. I offered them chocolate and they just munched on it, it was great (we'll get back to the chocolate thing later).
 
-On the same day, they asked me if I had a girlfriend. Of course, I was super confused and super shocked, but 
+On the same day, they asked me if I had a girlfriend. Of course, I was super confused and super shocked, but I responded that I was single. It really shocked me, and I thought "who just asks that?" But anyway, I went on with my day thinking about that. I think it was a few more days after that they explained that it was for research.
+
+Then, we went a hangout with some of my other friends (and we said we were going to do another one but it never really happened). It was fun and I still have a few clips from it. I guess that was the hard part of realising that it's probably not going to happen. Having a friendship that you know is sincere, but there was still a hidden secret. A lie, if you may. Deception? So, I cherished it while it lasted, and thought of a possible future (which was a dangerous game to play). 
+
+On the bus, I was able to talk with the sixth star a lot more deeply, and it really got me thinking about thoughts that I dismissed before. It was the first time one of my crushes actually talked about something deep.
+
+It hurt me every time they were saying that they wanted a certain type of person, something that didn't fit little ol' me. But I kept going and just wanted the friendship to keep going, knowing that it wouldn't happen at the end. It hurt like a splinter on my knee or a sprained ankle, but I kept walking. Maybe, I even ran.
+
+Then, we had a little tension moment. I felt really offended by something the sixth star said, something really personal to me. I didn't feel happy, and to stop myself from exploding right in front of them and hurting them in the process, I got some space. I thought and I reflected. I didn't feel angry any longer, it felt like it was my fault for overreacting. They were really concerned, which was a first because none of my crushes ever felt actually concerned for me. So, I told the truth. And I confessed too.
+
+I said, "hey, \[starlight], I need to talk to you later." It was as simple as that. As they were walking to the buses and I was walking home, I was thinking of what to do. I just texted, got into a call, and shared my feelings. I got rejected, again. It was a bittersweet moment, talking to the person I had feelings with *about* my feelings. I knew that they respected me, and they wanted to comfort me.
+
+It was the athletics carnival right after, all the kids ran, played discus, and other sports. It was noisy, but with earbuds in my ear and calm music playing, I sat there and enjoyed the view. I was grieving of something that wasn't even there, a future that never existed, and a past clouded by feelings of something that wasn't true. Sparks that weren't sparks.
+
+Then, we didn't talk for the weekend. For a bit. No texts, no calls, maybe just a "get well soon" text and that's it (come on, I have *some* basic human decency). And so, the weekdays came and on that Tuesday morning, things felt weird. Things felt awkward. Too awkward.
+
+The distance and the realisation that they were about to date someone else, it hurt me and struck a nerve. I didn't want to talk to that person anymore, I thought. It hurt too much, I felt too much. I was grieving for a loss from someone who was alive, or maybe the thought of someone. No, both. I was grieving for both, a friendship so valuable that I threw away and a future I valued that never happened.
+
+The tables turned. It turned 180 degrees. I wasn't the one being ghosted, I was the ghost. Or maybe, it was a mutual one.
+
+We avoided each other. Talked to our mutual friends yet stayed a distance with no eye contact. We looked at each other like we were ghosts, glancing at each other but never really *seeing* each other. It felt weird. 
+
+> Sometimes, it really feels like I'm seeing a ghost. We don't talk to each other anymore but we know each other exist. A friend, but a stranger. What a horrible predicament :/
+> - May 23, 2025
+
+However, today, I resolved it. Sort of. Remember the chocolate at Industry Day? Yeah, I gave the same exact chocolate today. I went and said "open your hands" and just dumped the chocolate in their hand. They were kind of shocked, confused, and didn't know what to do. I just ran away, again. It still felt awkward, but I knew I couldn't do this forever. So maybe, a safe distance will do.
+
+I learned that maybe **things don't always go our way and it's not always meant to be**.
+
+---
+
+# looking at the present and to the future
+Now, I look at everything, I see how things could've turned out and why they didn't. I wasn't ready. I was young, I was a child, I thought I could do things my way and it would work. I thought I could get an answer to everything but sometimes, the toughest questions have no closure. Along with this whole faith issue that I have (agnostic theist now, leaning on Christianity), it was really a catacomb of events that happened.
+
+And so, a lesson from all.
+1. I learned **friendship vs romance**.
+2. I learned that **crushes were still human**.
+3. I learned that **not everything goes to plan**.
+4. I learned that **people can just not be compatible**.
+5. I learned **not to wear a sleeve on my heart**.
+6. I learned **it's not always meant to be**.
+
+Maybe I'm not ready to really love yet, I'm too young and my future self would know. I realised that while I wanted to build others up, I was destroying myself at my core. Every crush ate me up and I guess, *crushed* me. It wasn't fun.
+
+But each crush was not just about the person, it was an experience. An experience that demonstrated a lesson each time, no matter how silly it may be. 
+
+My stubbornness will still be there. My quirkiness will still be there. My hidden ego deep down, is still there no matter how much I fight to be humble. All I know, is that it's going to be okay. **I hope it will.**
+
+I'll find someone. Maybe not now, maybe now. Maybe sometime, in time there will be. Or maybe not at all? Wherever my life takes me, I'll follow. I'll keep learning, even when it's rough. I'll keep finding, even though I don't know what I'm finding.
+
+I'll find an answer, or maybe not at all.
+
+I just hope everything will be okay.
+
+Sincerely,
+
+cups
+
+---
+
+> To the sixth red star, lying in a world of gray
+> 
+> "Although our times have passed,
+> as we move from place to place
+> Star-crossed friends who
+> live in different shades
+> Of the same light
+> Of the same fights
+> 
+> And even though the world
+> does not conspire for what we want
+> We'll still be friends
+> No matter what
+> For however long it may last
+> Thank you for all that we have
+> Even in the weirdest of nights
+> Even in its bittersweet end"

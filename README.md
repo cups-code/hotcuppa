@@ -1,5 +1,5 @@
 # hotcuppa
-This is the official codebase for the `hotcuppa` GitHub page. This is run by Quartz and relevant info can be found below.
+This is the official codebase for the `hotcuppa` GitHub page. This is run by Quartz and relevant info can be found below!
 
 https://cups-code.github.io/hotcuppa
 

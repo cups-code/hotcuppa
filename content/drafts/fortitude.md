@@ -61,4 +61,30 @@ I wasn't used to this sort of personality, a really blunt and maybe *too* honest
 
 Then, breaking the cycle of Discord calls, I actually gave a letter. It's a bit cringey and a bit too upfront, but it was my first time. I thought that this person was so special to me and that I actually had a chance, so I gave it my best shot and... well, it didn't really go well.
 
-Not getting a response immediately since I sent it just before school ended, 
+Not getting a response immediately since I sent it just before school ended, I was a bit nervous. I felt the cycle of rejection overpower me and I spiralled into overthinking and impatient waiting. I was waiting for an answer, until I finally found one. Or was it really an answer?
+
+I got a "maybe". A sliver of hope, a silver lining. It felt like the stars were aligning. My naivety called for patience and waiting but really, it was false hope. I think the fourth star was letting me down slowly, and I'm grateful for it (even if it caused so much pain). We knew we weren't compatible with each other and I eventually moved on from it. 
+
+And to that, I say that I learned **incompatibility**.
+
+## the fifth, different territory
+The fifth star was a bit of a silly one. I was being a little pushy, as I usually do. I was a little dramatic, as I usually am. It felt like I was playing a character in a show and it felt like a more American romance high school drama this time. I got in the same class with the fifth star and I was in so much pain when I realised, but really ... I *loved* it.
+
+I, then, got the guts to get up and write a Valentine's Day message (with a rose). Somehow, even though it was anonymous, they guessed that it was me. For some ODD reason. It was so weird. It felt like the world was conspiring against me. But, I guess it was obvious, don't put a :P in your message.
+
+It was a short one for me. I think the fifth star was actually nicer than I thought, even though they ghosted me **HARD**. I believe it was the first time I got Instagram (2025) and I already felt the pain of being unfollowed. Wow, it really hurt.
+
+Also, I wrote a love song for them. How fun, right? :]
+
+I learned that **wearing your heart on a sleeve isn't always a good thing**.
+
+## the sixth, revolution (ongoing?)
+Now, I guess, the most recent one ... the one that broke my heart the most, the one that was only weeks ago. I guess it felt like my first, just **pure friendship**. But it was weird because I felt sparks between us, like something was different ... but I guess I was wrong. :)
+
+I actually met them while I was obsessing over the fifth star and one of my friends told me that the sixth star seemed nice out of all of the people playing sports. I was confused, and I really wondered who this person was (I never met them before, and they seemed new). 
+
+I was interested, and decided to say 'hi' every now and then. It was fun, I felt a little happy every time I said 'hi' and they said 'hi' back. I don't think my feelings were that strong to the point I would explode, I guess just a healthy amount. Every morning, even though they were really chill, I felt a little happier and motivated to do stuff.
+
+Then, there was an event called Industry Day, it was basically when people gave us career advice and offered tours for their offices. I got bored, so I walked up to them and said hi. We had an actual conversation, it felt like we were actually getting to know each other. It was much more deep than the last few ones, maybe it was just because of them being them. I offered them chocolate and they just munched on it, it was great (we'll get back to the chocolate thing later).
+
+On the same day, they asked me if I had a girlfriend. Of course, I was super confused and super shocked, but 

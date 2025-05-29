@@ -31,12 +31,12 @@ See you later, and enjoy your new hot cups of tea. :)
 **don't worry, we'll get you exploring in no time :D**
 
 - `academics` contain cups' academic work pieces, which may be of some information or entertainment to some
+- `archive` contains cups' old notes and things he doesn't really need anymore
 - `blogs` is where you'll find informal, mostly casual notes
 - `compilations` is where you'll find compilations of previous pieces that have been compiled for easier reading
 - `essays` is a collection of cups' essays, mostly personal ones out of passion
 - `novels` is also another collection of cups' writing, specialising in fiction in contrast to other pieces
 - `previews` is a collection of somewhat finalised drafts that have yet to be organised and have been dropped there instead
-- `thoughts` is a collection of many works regarding philosophy and potentially other related pieces
 
 # need to contact me?
 **here's some contact information to get you started**

@@ -1,5 +1,5 @@
 ---
-title: the sixth star (+ 501)
+title: the sixth star
 description: the endgame of this whole facade i've made
 created: 2025-06-07
 published: 2025-06-07T23:05:00
@@ -59,14 +59,12 @@ And now, a stalemate. A bittersweet stalemate. A facade I built only to crumble.
 
 Or maybe, there is no such thing as "goodbye". Only "see you later". I'll never be able to stop whatever these *sparks* are, even if it was reality or a lie. It didn't feel like a lie, I know most of it was real. I'll just forget. Buried inside where no one can find it but me.
 
-*Every piece of me holds parts of you. Who knows I won't go looking for someone like you?*
-
 So, if you're reading this, I want to say I'm sorry. To the starlight above the sky. I placed a rift, a place of tension over this ship we've built. In another life, maybe I would've been more honest or maybe I would never feel like this at all.
 
 See you later, I guess.
 
 ---
->										***
+> ***
 
 I hope you enjoyed this blog post, even if maybe it's not what I usually write.
 

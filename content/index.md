@@ -35,6 +35,7 @@ See you later, and enjoy your new hot cups of tea. :)
 - `blogs` is where you'll find informal, mostly casual notes
 - `compilations` is where you'll find compilations of previous pieces that have been compiled for easier reading
 - `essays` is a collection of cups' essays, mostly personal ones out of passion
+- `lyrics` is a collection of all my song lyrics, all easy to access from the blogs
 - `novels` is also another collection of cups' writing, specialising in fiction in contrast to other pieces
 - `previews` is a collection of somewhat finalised drafts that have yet to be organised and have been dropped there instead
 

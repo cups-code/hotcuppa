@@ -36,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        { Component: Component.MobileOnly(Component.ReaderMode()) },
       ],
     }),
     Component.Explorer({ title: "directories" }),

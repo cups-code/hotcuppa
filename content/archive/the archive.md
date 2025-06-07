@@ -1,7 +1,7 @@
 ---
 title: what's this? (the archive)
 description: a little description about the archive
-created: 
+created: 2025-05-29
 published:
 ---
 # what's the archive?

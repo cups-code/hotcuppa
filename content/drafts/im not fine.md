@@ -25,7 +25,7 @@ All I know is, **I'm not fine**. I'm tired of turning every single admiration in
 
 I mean, I'm still excited to see them. It's not like whatever's getting in the way is ruining our friendship. We still talk everyday. We still debate, maybe send memes to each other. Laugh with each other and maybe laugh at other things.
 
-I just want things to be simple. I don't want to be so direct and brave anymore that I'm hurting myself every time, but I just want them to know. Maybe I want them to know too. I just don't really know what to do.
+I just want things to be simple. I don't want to be so direct and brave anymore that I'm hurting myself every time, but I just want to know. Maybe I want them to know too. I just don't really know what to do.
 
 Maybe I'm not fine now. But maybe things will be fine in the end. No matter how it goes.
 

@@ -3,7 +3,6 @@ title: who am I?
 description: a small little autobiography, if you might say.
 created: 2025-04-17
 published: 2025-05-29T10:07:00
-modified:
 ---
 # hey, i'm David
 *this document is subject to change overtime, i'll archive each major change somewhere*

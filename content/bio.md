@@ -21,6 +21,8 @@ Let's start with some background information!
 
 I hope that's a good outline of who I am and what I do.
 
+---
+
 # need to contact me?
 **here's some contact information to get you started**
 

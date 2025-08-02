@@ -20,3 +20,12 @@ Let's start with some background information!
 - Finally, I enjoy quite a variety of food and drinks such as iced matcha (yes, I am that one guy who drinks matcha all the time), ramen (mainly "tantanmen"), and fried chicken.
 
 I hope that's a good outline of who I am and what I do.
+
+# need to contact me?
+**here's some contact information to get you started**
+
+- if you just want my socials, go to my [linktree](https://linktr.ee/cups.9)
+- for non-urgent emails, please mail me @ rainycup9@gmail.com
+- for messaging, add me on [discord](https://discord.com/users/1189489920239222844)
+
+(p.s. i don't read emails much)

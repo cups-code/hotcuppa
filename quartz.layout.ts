@@ -61,6 +61,8 @@ export const defaultContentPageLayout: PageLayout = {
         categoryId: "DIC_kwDOOa_mWM4Ctr6l",
         // from data-lang
         lang: "en",
+        lightTheme: "gruvbox_light",
+        darkTheme: "gruvbox_dark",
       },
     }),
   ],

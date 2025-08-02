@@ -47,6 +47,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "cups-code/hotcuppa",
+        // from data-repo-id
+        repoId: "R_kgDOOa_mWA",
+        // from data-category
+        category: "Announcements",
+        // from data-category-id
+        categoryId: "DIC_kwDOOa_mWM4Ctr6l",
+        // from data-lang
+        lang: "en",
+      },
+    }),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

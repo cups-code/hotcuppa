@@ -1,6 +1,8 @@
 ---
 title: this is hotcuppa.
 ---
+# !! NOTE
+- If you're here wondering why my accounts are deactivating, please read the notice [[note|here]].
 # welcome!
 **a personal digital garden dedicated to my blogs, thoughts, and generally just life**
 

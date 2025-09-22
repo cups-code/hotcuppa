@@ -15,13 +15,13 @@ Let’s get straight to the point. This is *hotcuppa*.
 
 **Here’s the list of stuff I’m planning to do.**
 - philosophy and thought pieces
-- work and academic pieces
+- ranty blogs
 - passion projects (such as short stories, reports, reviews, etc.)
 
 **And here's what you can already find.**
-- a compilation of my previous pieces, you can find volume 1 here: [[apr. hotcuppa dump - vol1]]
-- my very long thought-essay on Christianity, which you can find here: [[My Essay on Christianity]]
 - a short blog about tea: [[the teaful revelation]]
+- an angsty rant about crushes/feelings: [[fortitude]]
+- a poetic introspection of the jolliboo incident: [[i'll never find you again]]
 
 I hope to be able to empower young authors like myself, share my experiences with the internet and world, and build a personal archive like I did with many of my past YouTube projects.
 
@@ -36,8 +36,5 @@ See you later, and enjoy your new hot cups of tea. :)
 
 - `archive` contains cups' old notes and things he doesn't really need anymore
 - `blogs` is where you'll find informal, mostly casual notes
-- `compilations` is where you'll find compilations of previous pieces that have been compiled for easier reading
-- `essays` is a collection of cups' essays, mostly personal ones out of passion
 - `lyrics` is a collection of all my song lyrics, all easy to access from the blogs
-- `novels` is also another collection of cups' writing, specialising in fiction in contrast to other pieces
 - `previews` is a collection of somewhat finalised drafts that have yet to be organised and have been dropped there instead

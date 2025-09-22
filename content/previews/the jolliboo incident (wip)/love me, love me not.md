@@ -54,10 +54,16 @@ But when I saw that someone was genuinely interested in me, I thought it might'v
 And as the days passed by, we kept talking. We kept playing. We kept laughing. I was so *in* love and I felt like I met a new best friend I could have. With the right time, in the right place. Everything felt so surreal.
 
 Then, *everything* came back.
+
+---
+
+
+> [!Failure] Unfinished
+> - This blog is not finished.
+> - This draft is subject to change.
+
 ## the pain of it all
 *all the baggage I carried never left*
-
-...
 ## ripping off the bandaid
 *telling the truth*
 ## an inquiry

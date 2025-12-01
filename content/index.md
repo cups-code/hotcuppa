@@ -1,8 +1,6 @@
 ---
 title: this is hotcuppa.
 ---
-# !! NOTE
-- If you're here wondering why my accounts are deactivating, please read the notice [[note|here]].
 # welcome!
 **a personal digital garden dedicated to my blogs, thoughts, and generally just life**
 
@@ -37,4 +35,5 @@ See you later, and enjoy your new hot cups of tea. :)
 - `archive` contains cups' old notes and things he doesn't really need anymore
 - `blogs` is where you'll find informal, mostly casual notes
 - `lyrics` is a collection of all my song lyrics, all easy to access from the blogs
+- `plutoscape` (temporary) is a collection of all my writing from my web novel, plutoscape
 - `previews` is a collection of somewhat finalised drafts that have yet to be organised and have been dropped there instead

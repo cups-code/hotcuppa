@@ -8,6 +8,7 @@ It’s the one stealing the spotlight of my life recently… and I definitely kn
 
 # Chapter 2
 Meet, Jupiter (and Friends)
+
 [Kingston by Faye Webster](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R?si=tcOxFrxKRxCOMlVQKK_L1w)
 
 ---
